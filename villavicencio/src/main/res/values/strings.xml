@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Villavicencio</string>
+    <string name="about_name"> </string>
+
+    <string name="about">About App</string>
+    <string name="about_title">COPYRIGHT\n</string>
+    <string name="text_about">Aplication Colombia Turism\nVillavicencio City\nBy Marlon Ortiz\nVersion 1.0\n2015</string>
+
+    <string-array name="menu">
+        <item>Turism</item>
+        <item>Hotels</item>
+        <item>Bars</item>
+        <item>General Info</item>
+    </string-array>
+
+    <string name="turism">Turism</string>
+
+    <string name="t1">The Libertadores Park\n</string>
+    <string name="t2">Monument To Cristo Rey</string>
+    <string name="t3">Malocas Park</string>
+    <string name="t4">Agrotourism\n</string>
+    <string name="t5">Ocarros Bio Park</string>
+
+    <string name="t1des">
+        \nThe Libertadores park is considered one of the best one in the capital; there, the busts
+        of Simon Bolivar and Francisco de Paula Santander are located.\n\n
+    </string>
+
+    <string name="t2des">
+        The monument to Cristo Rey, was inaugurated in 1954, it is located in the high zone on
+        Redentor hill, situated in Llano avenue. It is the perfect place to enjoy spectacular views
+        to the city.\n\n
+    </string>
+
+    <string name="t3des">
+        The Malocas shows the culture of llanos, taking part in the Colombian history, in an
+        environment surrounded by exotic flora and varied samples of bovine, equine and other animals.\n
+        Inside the thematic park, there are exhibitions about the worse life world, it is the perfect
+        place to learn about them, its habitat, characteristics, the stables, the llano work, the
+        cultivation area of manioc banana and tapocho.\n\n
+    </string>
+    
+    <string name="t4des">
+        \nThere are appropriated places for agrotourism, thanks to its infrastructure, the ranches,
+        the natural reserves and all referent to llano culture.\nThe visitor can rest in agro-tourist
+        ranches that has rural environment where people can appreciate the daily work as cattle farming,
+        agriculture, fish farming; also taste the typical food, enjoy listening the llanera music or
+        practicing horseback riding.\n\n
+    </string>
+
+    <string name="t5des">
+        The Ocarros Bio Park, a natural reserve, is a place dedicated to natural richness of the
+        region. There, people will appreciate many animals and the diverse fauna. It has big green
+        areas, paths, serpentarium and aquarium.\nIt is the first zoo in the country where live regional
+        animals of the llano, has different ecosystems, varied fauna and typical flora of Colombian Orinoquia.\n
+    </string>
+
+
+    <string name="h1">Hotel Campestre Brizantha\n</string>
+    <string name="h2">Hotel Duranta\n</string>
+    <string name="h3">Hotel Estelar Villavicencio</string>
+
+    <string name="h1des">\nThe Brizantha Hotel Campestre features an outdoor pool and a restaurant
+        and is located in Villavicencio, just 15 minutes driving from the city center. It also has
+        Wi-Fi and hot tub outdoors. All rooms are equipped with air conditioning , satellite tv,
+        minibar and private bathroom with shower and free toiletries. Most accommodation overlooking
+        the pool or gardens. The Brizantha Hotel Campestre has shared terrace and meeting facilities,
+        a communal lounge and games room.\n\n
+    </string>
+
+    <string name="h2des">
+        \nDuranta Hotel is a boutique corporate hotel with modern construction, designed to create
+        spaces that invite the rest, harmony and intimacy. Our staff is characterized by a common
+        goal, to provide the best guest experience, through excellent attention and quality service.
+        The spaces such as auditoriums, playground, meeting room, pool, steam room, gym, spa, restaurant
+        and rooms are spacious, fresh and friendly to the environment around them, making them ideal
+        for relaxing or for celebrate special events. Every day we strive to maintain high standards
+        of quality care, food and maintenance of facilities, so we are committed to customer satisfaction.
+        Hotel located near the Hacienda Marseille, steps ahead of the Fourth Division of the Army and facing
+        the Apiay Air Base in via Puerto López.\n\n
+    </string>
+
+    <string name="h3des">
+        Space, functionality, privacy and technology. All rooms have been designed taking into account
+        the latest concepts of comfort, both for relaxing and for the moments work, wireless, voice
+        over IP, programmable answering machine and work area.\nServices: Room service / Concierge /
+        Business center / Laundry / Gym / Pool / Spa / Jacuzzi / Turkish / Sauna / Transportation Service
+        / security service / Internet wifi / parking / Massage room / Terrace.\n
+    </string>
+
+    <string name="b1">Los 80 Disco Bar\n</string>
+    <string name="b2">Campanilla\n</string>
+    <string name="b3">Baku Plaza Bar</string>
+
+    <string name="b1des">
+        \nBased on a concept of the decade of the 80s, give life to a new alternative entertainment
+        for the city, a diner with the best memories of that generation bar, that is why you are
+        getting the best TV series from Mazinger Z, to Los Magníficos. You are always wellcome to
+        enjoy the best drinks of the 80s.\n\n
+    </string>
+
+    <string name="b2des">
+        \nNight entertainment, good atmosphere to share with friends and family. Good llanera
+        music and dance shows.\nLocation: Front of Villacentro.\n\n
+    </string>
+
+    <string name="b3des">
+        Baku Plaza Bar is definitely the place to enjoy good music site, the best drinks, cocktails
+        and spirits, the city, the style "Outdoor Bar". Safe, cozy and spacious parking, is located
+        in the sunroom of the adjacent corridor to the Villacentro Multiplex Cinemas Mall, a covered
+        square, nestled in the vegetation of this beautiful garden. At all times it has a nice atmosphere
+        even with summer sun in the shade of a lush Saman and refreshed with the evening breeze.\n
+    </string>
+
+    <string name="infotitle">General Information of Villavicencio City\n</string>
+
+    <string name="infodes">
+        \nColombian city, capital of the department of Meta, is the most important commercial center of
+        the Eastern Plains. It is located northwest of the department of Meta, on the left bank of the
+        river Guatiquía.
+    </string>
+
+    <string name="infodes2">
+        \n\nGENTILIC: Villavicences.\n\nPOPULATION: 488,366 inhabitants\n\nECONOMY: Agriculture,
+        mining, trade, tourism, agribusiness.\n\nWEATHER: Tropical, warm and humid.\n\nTEMPERATURES:
+        20 to 38 degrees Celsius.\n\nAREA: 1338 km2\n
+    </string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+
+
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Villavicencio</string>
+    <string name="about_name"> </string>
+
+    <string name="about">Acerca de</string>
+    <string name="about_title">Derechos Reservados\n</string>
+    <string name="text_about">Aplicación Colombia Turística\nCiudad de Villavicencio\nAutor: Marlon Ortiz\nVersion 1.0\n2015</string>
+
+    <string-array name="menu">
+        <item>Turismo</item>
+        <item>Hoteles</item>
+        <item>Bares</item>
+        <item>Info General</item>
+    </string-array>
+
+
+    <string name="turism">Turismo</string>
+
+    <string name="t1">Parque Los Libertadores\n</string>
+    <string name="t2">Monumento a Cristo Rey</string>
+    <string name="t3">Parque Malocas</string>
+    <string name="t4">Agroturismo\n</string>
+    <string name="t5">Bio Parque Ocarros</string>
+
+    <string name="t1des">
+        \nEl parque Los Libertadores es considerado uno de los mejores en la capital, allí se encuentran
+        los bustos de los libertadores, Simón Bolivar y Francisco de Paula Santander.\n\n
+    </string>
+
+    <string name="t2des">
+        El monumento Crito Rey, fue inaugurado en 1954, esta localizado en la zona alta de la colina
+        Redentor, ubicado en la avenido el llano. Es el lugar perfecto para disfrutar de una vista
+        espectacular a la ciudad.\n\n
+    </string>
+
+    <string name="t3des">
+        El Parque Las Malocas es una muestra de la cultura de los llanos que forma parte de la histotia
+        Colombiana, en un entorno rodeado de flora exótica de la región y una variada muestra de bovinos,
+        equinos y otras especies menores.\nEn el parque temáticohay exhibiciones permanentes del mundo
+        del caballo, el sitio ideal para aprender de estos animales conociendo su hábitat, sus características,
+        las caballerizas, el trabajo de llano, los corrales, además de un área destinada al cultivo de yuca,
+        plátano y tapocho.\n\n
+    </string>
+
+    <string name="t4des">
+        \nPresenta sitios apropiados para el agroturismo, gracias a la infraestructura que posee, las
+        fincas, las reservas naturales, y todo lo referente a la cultura del llano. El visitante puede
+        pasar su estadía en fincas agro turísticas, que ofrecen ambientes campestres, en los cuales se
+        aprecia las labores diarias como la ganadería, agricultura, piscicultura y la avicultura; asimismo
+        degustar la comida típica y disfrutar de la música llanera, o realizar cabalgatas.\n\n
+    </string>
+
+    <string name="t5des">
+        El Bioparque Los Ocarros, una reserva natural, es un lugar dedicado a la preservación de la
+        riqueza natural de la región. Allí, se puede observar gran cantidad de animales, y diversidad
+        de fauna. Tiene grandes áreas de vegetación, senderos, serpentario y acuario.\nEs el primer
+        zoológico del país donde habitan especies regionales del llano, incluye diversos ecosistemas,
+        variada fauna y flora propias de la Orinoquía Colombiana.\n
+    </string>
+
+
+    <string name="h1">Hotel Campestre Brizantha\n</string>
+    <string name="h2">Hotel Duranta\n</string>
+    <string name="h3">Hotel Estelar Villavicencio</string>
+
+    <string name="h1des">
+        \nEl Hotel Campestre cuenta con piscina al aire libre y un restaurante y se encuentra
+        en Villavicencio, a solo 15 minutos en coche del centro de la ciudad. También tiene conexión Wi-Fi
+        gratuita y bañera de hidromasaje al aire libre. Todas las habitaciones están equipados con aire
+        acondicionado, TV satelital, minibar y baño privado con ducha y artículos de aseo gratuitos.
+        La mayoría de alojamientos tiene vistas a la piscina o a los jardines. El Brizantha Hotel Campestre
+        tiene terraza compartida, así como instalaciones para reuniones, un salón común y sala de juegos.\n\n
+    </string>
+
+    <string name="h2des">
+        \nHotel Duranta es un hotel boutique corporativo,   con una construcción moderna, pensada para
+        generar espacios que inviten al descanso, con armonía e intimidad. Nuestro personal se caracteriza
+        por tener un objetivo en común, brindar la mejor experiencia al huésped, por medio de una excelente
+        atención y un servicio de calidad. Los espacios como los auditorios, zona de juegos, sala de juntas,
+        piscina, baño turco, gimnasio, spa, habitaciones y restaurante, son amplios, frescos y amigables
+        con el ambiente que los rodea, siendo ideales para momentos de relax y/o celebración de eventos
+        especiales.  Día a día nos esforzamos por mantener altos estándares de calidad en atención, alimentos
+        y mantenimiento de instalaciones, por lo que nuestro compromiso es la satisfacción del cliente.
+        Hotel ubicado cerca a la Hacienda Marsella, Pasos adelante de la cuarta División del Ejército
+        y frente a la Base Aérea de Apiay en la vía Puerto López.\n\n
+    </string>
+
+    <string name="h3des">
+        Espacio, funcionalidad, privacidad y tecnología. Todas las habitaciones han sido diseñadas teniendo
+        en cuenta los últimos conceptos de la comodidad, tanto para el descanso, como para los momentos
+        de trabajo, wifi, voz sobre IP, contestador automático programable y área de trabajo.\nServicios:
+        Servicio al cuarto / Conserjería / Centro de negocios/ Lavandería / Gimnasio / Piscina / Spa /
+        Jacuzzi / Turco / Sauna / Servicio de Transporte / Servicio integral de seguridad / Internet wifi
+        / Parqueadero / Sala de Masajes/ Solárium.\n
+    </string>
+
+    <string name="b1">Los 80 Disco Bar\n</string>
+    <string name="b2">Campanilla\n</string>
+    <string name="b3">Baku Plaza Bar</string>
+
+    <string name="b1des">
+        \nBasados en un concepto de la década de los 80s, dan Vida a una nueva alternativa en entretenimiento
+        para la ciudad, un bar ambientado con los mejores recuerdos de esa generación, es por eso que te vas
+        a encontrar con las mejores series de TV, desde MAZINGER Z, hasta LOS MAGNÍFICOS. Eres siempre
+        Bienvenido a disfrutar de las mejores bebidas de los 80s.\n\n
+    </string>
+
+    <string name="b2des">
+        \nEntretenimiento Nocturno, buen ambiente para compartir con amigos y familiares. Buena música
+        llanera y shows de baile.\nUbicación: Al frente de Villacentro.\n\n
+    </string>
+
+    <string name="b3des">
+        Bakú Plaza Bar, es sin duda el sitio ideal para disfrutar de la buena música, las mejores bebidas,
+        cocteles y licores, de la ciudad, al mejor estilo, al aire libre. Seguro, acogedor y con amplios
+        parqueaderos, se ubica en la terraza interior del corredor contiguo a los Cinemas Multiplex del
+        Centro Comercial Villacentro, en una plazoleta cubierta, enclavada en la vegetación de este bello
+        jardín. A toda hora se tiene un agradable ambiente aun con sol de verano bajo la sombra de un
+        exuberante Samán y refrescado con la brisa del atardecer.\n
+    </string>
+
+    <string name="infotitle">Información General de la Ciudad de Villavicencio\n</string>
+
+    <string name="infodes">
+        \nCiudad Colombiana, capital del departamento del Meta, es el centro comercial más importante
+        de los Llanos Orientales. Está ubicada al Noroccidente del departamento del Meta, en la margen
+        izquierda del río Guatiquía.
+    </string>
+
+    <string name="infodes2">
+        \n\nGENTILICIO: Villavicences.\n\nPOBLACIÓN: 488,366 habitantes\n\nECONOMÍA: Agricultura,
+        minería, comercio, turismo, indsutria agropecuaria.\n\nCLIMA: Tropical, cálido y húmedo.\n\nTEMPERATURAS:
+        De 20 a 38 grados Centígrados.\n\nÁREA: 1338 km2\n
+    </string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>

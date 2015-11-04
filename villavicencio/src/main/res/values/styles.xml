@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/forestgreen</item>
+        <item name="colorPrimaryDark">@color/darkviolet</item>
+    </style>
+
+    <style name="textViewStyle" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/maroon</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">8pt</item>
+    </style>
+
+
+    <style name="tema" parent="AppTheme">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/darkred</item>
+    </style>
+
+</resources>
